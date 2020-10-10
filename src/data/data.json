@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Coast Hotels",
+    "price": 2252,
+    "img": "https://r-cf.bstatic.com/images/hotel/max1024x768/219/219008380.jpg",
+    "rating": 4,
+    "property_type": "apartment",
+    "facility": ["spa"]
+  },
+  {
+    "id": 2,
+    "name": "Kings Inn",
+    "price": 6120,
+    "img": "https://q-cf.bstatic.com/images/hotel/max1024x768/681/68184730.jpg",
+    "rating": 3,
+    "property_type": "holiday",
+    "facility": ["spa", "wifi", "cafe"]
+  },
+  {
+    "id": 3,
+    "name": "Lustrio Inn",
+    "price": 1129,
+    "img": "https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fblogs-images.forbes.com%2Fjimdobson%2Ffiles%2F2019%2F01%2Fsilver.jpg",
+    "rating": 4,
+    "property_type": "guest",
+    "facility": ["bar", "cafe"]
+  },
+  {
+    "id": 4,
+    "name": "Moss View Hotel",
+    "price": 3125,
+    "img": "https://www.rovinj-tourism.com/uploads/imgcache/large/hotels/145/family-hotel-amarin-15.jpg",
+    "rating": 5,
+    "property_type": "resort",
+    "facility": ["spa", "wifi"]
+  },
+  {
+    "id": 5,
+    "name": "Omni Hotels",
+    "price": 5542,
+    "img": "https://i.pinimg.com/originals/92/71/34/92713435412a70765eecc405abafcceb.jpg",
+    "rating": 3,
+    "property_type": "bnb",
+    "facility": ["spa", "wifi", "bar", "cafe"]
+  },
+  {
+    "id": 6,
+    "name": "Paramount Hotel",
+    "price": 6180,
+    "img": "https://triplanco.com/wp-content/uploads/2019/01/hotel_triplanco.jpg",
+    "rating": 2,
+    "property_type": "bnb",
+    "facility": ["wifi", "cafe"]
+  },
+  {
+    "id": 7,
+    "name": "Primland",
+    "img": "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/itemimages/18/30/18303_v5.jpeg",
+    "price": 5987,
+    "rating": 5,
+    "property_type": "guest house",
+    "facility": ["spa", "bar", "cafe"]
+  },
+  {
+    "id": 8,
+    "name": "Roadside",
+    "price": 3466,
+    "img": "https://www.heritancehotels.com/wp-content/uploads/2016/02/heritance-six-mob.jpg",
+    "rating": 1,
+    "property_type": "resort",
+    "facility": ["spa", "wifi", "bar", "cafe"]
+  },
+  {
+    "id": 9,
+    "name": "Malibu",
+    "price": 2142,
+    "img": "https://q-cf.bstatic.com/images/hotel/max1024x768/344/34461039.jpg",
+    "rating": 3,
+    "property_type": "apartment",
+    "facility": ["spa", "wifi", "cafe"]
+  },
+  {
+    "id": 10,
+    "name": "Hillside Hotel",
+    "price": 2341,
+    "img": "https://kieferle-partner.com/wp-content/uploads/2018/01/movenpick-jeddah-hero-2.jpg",
+    "rating": 2,
+    "property_type": "holiday",
+    "facility": ["wifi", "cafe"]
+  }
+]
