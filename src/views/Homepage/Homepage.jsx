@@ -324,7 +324,6 @@ export class Homepage extends Component {
       facilityValues,
       priceValues,
     } = this.state;
-    console.log('----------ins', this.state)
     return (
       <Container searchItem={this.searchItem} getCafes={this.getCafes}>
         <Box display="flex">

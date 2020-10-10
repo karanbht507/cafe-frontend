@@ -3,7 +3,6 @@ import Item from "./item/Item";
 import "./itemList.style.css";
 
 function ItemList({ items, itemsFound }) {
-  console.log('-----------it', items)
   return (
     <div className="items-grid">
       {!itemsFound && <h1>No items match</h1>}

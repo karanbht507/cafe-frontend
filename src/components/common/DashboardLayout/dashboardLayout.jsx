@@ -497,7 +497,6 @@ export default function Container(props) {
         <Fade in={isOpen}>
           <div className={classes.paper}>
             <h2 id="transition-modal-title">Create listing</h2>
-            {console.log('-----------form', form)}
             <div className={classes.form}>
               <div><TextField value={form.name} onChange={(e) => setForm({ ...form, name: e.target.value })} required label="Cafe Name"  />
               <TextField value={form.description} onChange={(e) => setForm({ ...form, description: e.target.value })} label="Cafe Description" defaultValue="" /></div>
